@@ -16,6 +16,19 @@ body {
   background-repeat: no-repeat;
   color: white;
 }
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:active {
+  color: white;
+}
 .container {
   margin: 0 auto;
   width: 60%;
@@ -89,22 +102,22 @@ body {
   transform: rotate(270deg);
 }
 .logo {
-    position: fixed;
-    bottom: 0;
-    right: 0;
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
-.offset-one{
-    margin-top: 20%; 
+.offset-one {
+  margin-top: 20%;
 }
 .offset-two {
-    margin-top: 13%; 
+  margin-top: 13%;
 }
-.offset-three{
-    margin-top: 25%; 
+.offset-three {
+  margin-top: 25%;
 }
 .about {
-    position: fixed;
-    right:0;
-    font-family: "Bebas Neue", cursive;
-    letter-spacing: 5px;
+  position: fixed;
+  right: 0;
+  font-family: "Bebas Neue", cursive;
+  letter-spacing: 5px;
 }
